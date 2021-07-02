@@ -3,7 +3,7 @@
 ### Model
 - Stacking 
 	- 1st-stage: LightGBM, MLP, Logistic Regeressionなどを含む10モデル
-	- 2st-stage: LightGBM
+	- 2nd-stage: LightGBM
 - LightGBM x2
 - Blending(Stacking + LightGBM)
 
